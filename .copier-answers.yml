@@ -1,0 +1,26 @@
+_commit: 0.1.7
+_src_path: gh:mapp-metabolomics-unit/mapp-repo-copier-template
+author: MAPP Metabolomics Unit
+common_filename_pattern: '*20250506_CVOL*.mzML'
+email: pierre-marie.allard@unifr.ch
+gap_filling: false
+git_repo_path: /home/allardpm/git_repos/mapp-metabolomics
+github_username: digital-botanical-gardens-initiative
+gnps_job_id: ''
+ionization_mode: positive
+mapp_batch: mapp_batch_00173
+mapp_batch_description: Untargeted metabolomics of 6 DBGI species comparing DMSO versus
+    MEOH extractions
+mapp_project: mapp_project_00067
+noise_level: 100000.0
+repository_name: dmso-meoh-extraction-evaluation
+target_variable: source_taxon
+recorded_setup: true
+recorded_repository_name: "dmso-meoh-extraction-evaluation"
+recorded_author: "MAPP Metabolomics Unit"
+recorder_email: "pierre-marie.allard@unifr.ch"
+recorded_github_username: "digital-botanical-gardens-initiative"
+recorded_mapp_project: "mapp_project_00067"
+recorded_mapp_batch: "mapp_batch_00173"
+
+
